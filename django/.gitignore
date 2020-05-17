@@ -1,0 +1,14 @@
+*.pyc
+*.pyo
+*.db
+*.xml
+.DS_Store
+.coverage
+.idea
+.env
+/static
+/media
+/logs
+**/migrations/*
+**/media/*
+models
